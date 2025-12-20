@@ -1,5 +1,4 @@
 # 🏆 Amazon ML Challenge 2025: Smart Product Pricing
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
